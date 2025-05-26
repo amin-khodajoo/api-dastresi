@@ -11,8 +11,7 @@
     {
       "id": 1,
       "name": "image",
-      "link": "#",
-      "linkImage": "https://amin-khodajoo.github.io/api-dastresi/images/header/logo.png",
+      "link": "https://amin-khodajoo.github.io/api-dastresi/images/header/logo.png",
       "alt": "فروشگاه اینترنتی دسترسی"
     },
     { "id": 2, "name": "search", "placeholder": "جستجو محصولات", "link": "#" },
@@ -263,7 +262,8 @@
     {
       "id": 1,
       "name": "image",
-      "link": "https://amin-khodajoo.github.io/api-dastresi/images/header/logo.png",
+      "link": "#",
+      "linkImage": "https://amin-khodajoo.github.io/api-dastresi/images/header/logo.png",
       "alt": "فروشگاه اینترنتی دسترسی"
     },
     {
